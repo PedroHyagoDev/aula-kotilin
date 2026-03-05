@@ -1,3 +1,4 @@
-Pedro Hyago Cardoso de Lima 
-Maria Eduarda Nunes da Silva
-Nícolas César
+  Pedro Hyago Cardoso de Lima 
+  Maria Eduarda Nunes da Silva
+  Nícolas César
+  Pablo Jorge dos Santos
